@@ -15,6 +15,7 @@
 - 支持不同于微信的代码配色方案
 
 ## 关于
+[我的网站](https://docs.gistudy.net/)
 
 ![qrcode_for_wechat](https://github.com/wsqstar/wechat-mdeditor/assets/24500520/3da42e5d-022f-4d13-8178-156d2c480ce9)
 

@@ -4,7 +4,7 @@
 
 这让你在公众号创作时，把更多的时间专注于文章本身，而不是繁琐地调整文章样式。
 
-[在线使用](http://prod.zkqiang.cn/wxeditor)
+[在线使用](https://wechat-mdeditor.gistudy.net/)
 
 ## 功能
 
@@ -18,6 +18,6 @@
 
 ![qrcode_for_wechat](https://github.com/wsqstar/wechat-mdeditor/assets/24500520/3da42e5d-022f-4d13-8178-156d2c480ce9)
 
-本仓库 Fork 自 [zkqiang/wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor)，并根据自用需求进行修改开发。
+本仓库 Fork 自 [zkqiang/wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor)。
 
 感谢他的创意和贡献！

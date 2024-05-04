@@ -16,6 +16,8 @@
 
 ## 关于
 
+![qrcode_for_wechat](https://github.com/wsqstar/wechat-mdeditor/assets/24500520/3da42e5d-022f-4d13-8178-156d2c480ce9)
+
 本仓库 Fork 自 [zkqiang/wechat-mdeditor](https://github.com/zkqiang/wechat-mdeditor)，并根据自用需求进行修改开发。
 
 感谢他的创意和贡献！
